@@ -1,5 +1,3 @@
-package __solvedac__.class2p;
-
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.IOException;
